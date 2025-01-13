@@ -1,1 +1,0 @@
-con la tecla a es a la izquierda y la d a la derecge
