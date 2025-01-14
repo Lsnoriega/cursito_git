@@ -1,4 +1,4 @@
-nombre = elver
-apellido = dugo
+nombre = Ver
+apellido = Dugo
 
 name = (nombre + " " + apellido)
