@@ -1,2 +1,2 @@
 # cursito_git
-## Practicando git y github por primera vez, curso de soydalto
+## Practicing git and github for the first time, course by soydalto
